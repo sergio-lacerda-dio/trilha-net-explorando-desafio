@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
+## Versão modificada
+Esse repositório contém a versão modificada do projeto abaixo, incluindo as implementaçõews solicitadas no desafio.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de explorando a linguagem C#, da trilha .NET da DIO.
 
